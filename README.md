@@ -13,3 +13,5 @@ Getting Help
 ------------
 
 Need Help? Check out the [documentation](http://docs.openmm.org/) and [discussion forums](https://simtk.org/forums/viewforum.php?f=161).
+
+This is used for COVID-19 simulations by Folding@Home.
